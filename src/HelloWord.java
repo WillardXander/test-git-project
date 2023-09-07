@@ -10,5 +10,7 @@ public class HelloWord {
         System.out.println("Hello Word!");
 
         System.out.println("add modify!");
+
+        System.out.println("add second modify!");
     }
 }
